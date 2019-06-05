@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559331046 source:c:\users\mail2\desktop\signal_statistics\convolution_and_correlation\robust_convolution\main.cpp
+	<iostream>
+	"convolution.hpp"
+	<fstream>
+
+1559330624 c:\users\mail2\desktop\signal_statistics\convolution_and_correlation\robust_convolution\convolution.hpp
+	<stdint.h>
+
+1559182922 source:c:\users\mail2\desktop\signal_statistics\convolution_and_correlation\robust_convolution\waveforms.cpp
+
